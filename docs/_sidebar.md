@@ -1,12 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-* [首页]()
-* [指南]()
-* [Moths-模组说明]
-    * [Data Organization](./markdown/transform.md)
-    * [Database](./markdown/Database.md)
-    * [Design Analysis](./markdown/Design_Analysis.md)
-    * [Design Content](./markdown/Design_Content.md)
-    * [Info](./markdown/Info.md)
-    * [Rural Archi](./markdown/Rural_Archi.md)
-    * [Util](./markdown/Util.md)
+* [概述]()
+* [基础]
+    * [print()](./markdown/1_print.md)
+    * [基础运算](./markdown/2_Basic_operations.md)
+    * [变量](./markdown/3_Variable.md)
+    * [赋值](./markdown/4_Assign.md)
