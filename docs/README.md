@@ -4,7 +4,7 @@
 
 > 开始时间：2022-06-29
 
-学者：胡顺华
+* 学者：胡顺华
 
 <a href=""><img src="./imgs/common/hush.jpg" height="400" width="400" title="creator"></a>  
 
